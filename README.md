@@ -10,7 +10,7 @@ This project is a starting point for a Flutter application.
 
 
 <img src="photo/1.png" width="200" /> <img src="photo/2.png" width="200" /> <img src="photo/3.png" width="200" /> <img src="photo/4.png" width="200" /> <img src="photo/5.png" width="200" /> <img src="photo/7.png" width="200" /> <img src="photo/8.png" width="200" /> <img src="photo/9.png" width="200" />
-A few resources to get you started if this is your first Flutter project:
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
